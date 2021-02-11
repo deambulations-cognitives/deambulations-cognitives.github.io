@@ -4,7 +4,7 @@
 name = "Vitae"
 license = "GPL-2.0"
 licenselink = "https://github.com/dataCobra/hugo-vitae/blob/master/LICENSE.md"
-description = "Vitae is a blog theme for Hugo that focuses on your content."
+description = "Un podcast qui divague au fil de mes lectures."
 homepage = "https://github.com/dataCobra/hugo-vitae"
 tags = ["blog", "responsive", "postimage", "clean", "simple", "light", "disqus", "commento", "mobile", "customizable", "minimalistic", "typography", "fontawesome", "reading"]
 features = ["responsive", "clean", "disqus", "commento", "postimage", "math", "fontawesome", "social-icons", "customizables", "RSS", "multilingual"]
