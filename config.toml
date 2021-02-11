@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://deambulations-cognitives.onrender.com/"
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 author = "Déambulations Cognitives"
@@ -28,7 +28,7 @@ googleAnalytics = ""
 	keywords = ["podcast", "livres", "littérature", "sciences sociales", "sociologie", "éducation"]
 
 	# Add meta description in head part
-	description = "Vitae is a blog theme for Hugo that focuses on your content."
+	description = "Un podcast qui divague au fil de mes lectures."
 
 	# Add pagetitle to homepage <title> tag
 	pagetitle = "Un podcast qui divague au fil de mes lectures 📚"
