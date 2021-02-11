@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Déambulations Cognitives</title>
+		<link>http://example.org/tags/</link>
+		<description>Recent content in Tags on example.org</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>fr-fr</language>
+		<copyright>(ɔ) Copyleft | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>anarchie</title>
+			<link>http://example.org/tags/anarchie/</link>
+			<pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://example.org/tags/anarchie/</guid>
+			<description>
+			
+				
+			
+			</description>
+		</item>
+		<item>
+			<title>philosophie</title>
+			<link>http://example.org/tags/philosophie/</link>
+			<pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://example.org/tags/philosophie/</guid>
+			<description>
+			
+				
+			
+			</description>
+		</item>
+		<item>
+			<title>éducation</title>
+			<link>http://example.org/tags/%C3%A9ducation/</link>
+			<pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://example.org/tags/%C3%A9ducation/</guid>
+			<description>
+			
+				
+			
+			</description>
+		</item>
+		<item>
+			<title>emoji</title>
+			<link>http://example.org/tags/emoji/</link>
+			<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://example.org/tags/emoji/</guid>
+			<description>
+			
+				
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>

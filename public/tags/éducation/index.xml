@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>éducation on Déambulations Cognitives</title>
+		<link>http://example.org/tags/%C3%A9ducation/</link>
+		<description>Recent content in éducation on example.org</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>fr-fr</language>
+		<copyright>(ɔ) Copyleft | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://example.org/tags/%C3%A9ducation/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Anarchisme et éducation</title>
+			<link>http://example.org/posts/anarchisme-et-education/</link>
+			<pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://example.org/posts/anarchisme-et-education/</guid>
+			<description>
+			
+				SUISSA Judith - Anarchism and Education. A philosophical perspective.
+			
+			</description>
+		</item>
+		<item>
+			<title>Anarchisme et éducation</title>
+			<link>http://example.org/posts/colonie-de-dun/</link>
+			<pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://example.org/posts/colonie-de-dun/</guid>
+			<description>
+			
+				SUISSA Judith - Anarchism and Education. A philosophical perspective.
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>
