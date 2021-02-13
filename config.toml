@@ -115,7 +115,7 @@ url = ""
 [[params.social]]
 name = "Discord"
 icon = "fab fa-discord"
-url = ""
+url = "https://discord.gg/XBraWFkVAW"
 
 [[params.social]]
 name = "Email"
