@@ -46,7 +46,7 @@ googleAnalytics = ""
 	avatar = "/img/biblio-cote-resize.jpg"
 
 	# Optional favicons for website
-	#favicon = true
+	favicon = true
 
 	# Add list of sections that should show up on the homepage
         mainSections = ["posts"]
