@@ -110,7 +110,7 @@ weight = 4
 [[params.social]]
 name = "Discord"
 icon = "fab fa-instagram-square"
-url = ""
+url = "https://www.instagram.com/deambulations_cognitives/"
 
 [[params.social]]
 name = "Discord"
