@@ -1,4 +1,4 @@
-baseURL = "https://deambulations-cognitives.onrender.com/"
+baseURL = "https://deambulations-cognitives.com/"
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 author = "Déambulations Cognitives"
@@ -7,7 +7,7 @@ theme = "hugo-vitae"
 paginate = 5
 enableRobotsTXT = true
 
-copyright = "(ɔ) Copyleft | <a href=\"mailto:dcpodcast@protonmail.com\">Contact</a> | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+copyright = "(ɔ) Copyleft | <a href=\"mailto:dcpodcast@protonmail.com\">📮Contact me</a> | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
 pygmentsstyle = "colorful"
 pygmentscodefences = true
