@@ -7,7 +7,7 @@ theme = "hugo-vitae"
 paginate = 5
 enableRobotsTXT = true
 
-copyright = "(ɔ) Copyleft | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+copyright = "(ɔ) Copyleft | <a href=\"mailto:dcpodcast@protonmail.com\">Contact</a> | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
 pygmentsstyle = "colorful"
 pygmentscodefences = true
@@ -108,7 +108,7 @@ weight = 4
 # Social Menu
 
 [[params.social]]
-name = "Discord"
+name = "Instagram"
 icon = "fab fa-instagram-square"
 url = "https://www.instagram.com/deambulations_cognitives/"
 
