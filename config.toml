@@ -108,6 +108,11 @@ weight = 4
 # Social Menu
 
 [[params.social]]
+name = "Spotify"
+icon = "fab fa-spotify"
+url = "https://open.spotify.com/show/76kE1Q0ithsHL3ELwroMYn?si=TqlnOhNqRYSbQvSEiJ4uhg"
+
+[[params.social]]
 name = "Instagram"
 icon = "fab fa-instagram-square"
 url = "https://www.instagram.com/deambulations_cognitives/"
@@ -117,10 +122,11 @@ name = "Discord"
 icon = "fab fa-discord"
 url = "https://discord.gg/XBraWFkVAW"
 
-[[params.social]]
-name = "Email"
-icon = "fas fa-envelope"
-cmd = "mailto:DCPodcast@protonmail.com"
+
+# [[params.social]]
+# name = "Email"
+# icon = "fas fa-envelope"
+# cmd = "mailto:DCPodcast@protonmail.com"
 
 [[params.social]]
 name = "RSS"
