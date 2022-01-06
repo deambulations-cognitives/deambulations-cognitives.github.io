@@ -13,7 +13,7 @@ tags = [
 
 ---
 
-<div id='buzzsprout-small-player'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1677394.js?container_id=buzzsprout-small-player&player=small'></script>
+<div id="buzzsprout-player-9837893"></div><script src="https://www.buzzsprout.com/1677394/9837893-la-colonie-familiale-pour-alienes-tranquilles-de-dun.js?container_id=buzzsprout-player-9837893&player=small" type="text/javascript" charset="utf-8"></script>
 <div style="font-size: 80%; text-align: right; margin: none;";><i>Le podcast peut être téléchargé dans les options du lecteur.<br />
 Il est aussi disponible sur d'autres plateformes, notamment sur <a href="https://open.spotify.com/show/76kE1Q0ithsHL3ELwroMYn?si=TqlnOhNqRYSbQvSEiJ4uhg">Spotify</a></i>.</div>
 
