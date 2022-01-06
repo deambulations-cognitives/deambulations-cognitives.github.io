@@ -10,8 +10,10 @@ tags = [
     "utopie",
 ]
 +++
-***
-<div id='buzzsprout-small-player-1677394-tags-Rigondet'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1677394.js?player=small&tags=Rigondet&container_id=buzzsprout-small-player-1677394-tags-Rigondet'></script>
+
+---
+
+<div id='buzzsprout-small-player'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1677394.js?container_id=buzzsprout-small-player&player=small'></script>
 <div style="font-size: 80%; text-align: right; margin: none;";><i>Le podcast peut être téléchargé dans les options du lecteur.<br />
 Il est aussi disponible sur d'autres plateformes, notamment sur <a href="https://open.spotify.com/show/76kE1Q0ithsHL3ELwroMYn?si=TqlnOhNqRYSbQvSEiJ4uhg">Spotify</a></i>.</div>
 
@@ -24,6 +26,8 @@ Bien entendu, vos retours sont toujours bienvenus et appréciés.</p>
 <center><img src="/img/Rigondet.jpg" style="border-radius: 3px; width: 200px;"></center>
 
 #### Référence :
-* RIGONDET Juliette, _Un village pour aliénés tranquilles_, Paris, Fayard, 2019.  
-<br />
-***
+
+- RIGONDET Juliette, _Un village pour aliénés tranquilles_, Paris, Fayard, 2019.  
+  <br />
+
+---
