@@ -9,8 +9,10 @@ tags = [
     "mindset",
 ]
 +++
-***
-<div id='buzzsprout-small-player-1677394-tags-Dweck'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1677394.js?player=small&tags=Dweck&container_id=buzzsprout-small-player-1677394-tags-Dweck'></script>
+
+---
+
+<div id="buzzsprout-player-9841042"></div><script src="https://www.buzzsprout.com/1677394/9841042-les-etats-d-esprit-fixes-et-de-developpement-selon-carol-dweck.js?container_id=buzzsprout-player-9841042&player=small" type="text/javascript" charset="utf-8"></script>
 <div style="font-size: 80%; text-align: right; margin: none;";><i>Le podcast peut être téléchargé dans les options du lecteur.<br />
 Il est aussi disponible sur d'autres plateformes, notamment sur <a href="https://open.spotify.com/show/76kE1Q0ithsHL3ELwroMYn?si=TqlnOhNqRYSbQvSEiJ4uhg">Spotify</a></i>.</div>
 
@@ -21,6 +23,8 @@ Il est aussi disponible sur d'autres plateformes, notamment sur <a href="https:/
 <center><img src="/img/dweck.jpg" style="border: 1px #000 solid; border-radius: 3px; width: 200px; margin: 15px"></center>
 
 #### Référence :
-* DWECK Carol, _Mindset: The new psychology of success_, New York, Ballantine Books, 2016.  
-<br />
-***
+
+- DWECK Carol, _Mindset: The new psychology of success_, New York, Ballantine Books, 2016.  
+  <br />
+
+---

@@ -10,7 +10,8 @@ tags = [
     "maladie mentale",
 ]
 +++
-<div id='buzzsprout-small-player-1677394-tags-Basaglia'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1677394.js?player=small&tags=Basaglia&container_id=buzzsprout-small-player-1677394-tags-Basaglia'></script>
+
+<div id="buzzsprout-player-9841030"></div><script src="https://www.buzzsprout.com/1677394/9841030-franco-basaglia-et-la-suppression-des-hopitaux-psychiatriques-en-italie.js?container_id=buzzsprout-player-9841030&player=small" type="text/javascript" charset="utf-8"></script>
 <div style="font-size: 80%; text-align: right; margin: none;";><i>Le podcast peut être téléchargé dans les options du lecteur.<br />
 Il est aussi disponible sur d'autres plateformes, notamment sur <a href="https://open.spotify.com/show/76kE1Q0ithsHL3ELwroMYn?si=TqlnOhNqRYSbQvSEiJ4uhg">Spotify</a></i>.</div>
 
@@ -21,12 +22,13 @@ Il est aussi disponible sur d'autres plateformes, notamment sur <a href="https:/
 
 <center><img src="/img/laing-basaglia.jpg" style="border-radius: 3px; width: 300px;"> </center>
 
+#### Références :
 
-#### Références :  
-* BASAGLIA Franco, _L'institution en négation_, Paris, Arkhê, 2012 [1968].  
-* BLY Nellie, 10 jours dans un asile, Paris, Seuil, 2015 [1887].
-* FOOT John, « Franco Basaglia and the radical psychiatry movement in Italy, 1961–78 », _Critical and Radical Social Work_, n° 2, août 2014, pp. 235-249.  
-* LAING Ronald David, _Wisdom, madness & folly : the making of a psychiatrist 1927-1957_, Londres, Macmillan, 1985.  
-* LONDRES Albert, _Chez les fous_, Paris, Arléa, 2009 [1925].  
-<br />
-***
+- BASAGLIA Franco, _L'institution en négation_, Paris, Arkhê, 2012 [1968].
+- BLY Nellie, 10 jours dans un asile, Paris, Seuil, 2015 [1887].
+- FOOT John, « Franco Basaglia and the radical psychiatry movement in Italy, 1961–78 », _Critical and Radical Social Work_, n° 2, août 2014, pp. 235-249.
+- LAING Ronald David, _Wisdom, madness & folly : the making of a psychiatrist 1927-1957_, Londres, Macmillan, 1985.
+- LONDRES Albert, _Chez les fous_, Paris, Arléa, 2009 [1925].  
+  <br />
+
+---
