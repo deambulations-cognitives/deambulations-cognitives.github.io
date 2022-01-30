@@ -1,6 +1,6 @@
 +++
 author = "Déambulations Cognitives"
-title = "Les états d'esprit \"fixes\" et de \"développement\" selon Carol Dweck"
+title = "Les états d'esprit « fixes » et de « développement » selon Carol Dweck"
 date = "2021-02-11"
 description = ""
 tags = [
