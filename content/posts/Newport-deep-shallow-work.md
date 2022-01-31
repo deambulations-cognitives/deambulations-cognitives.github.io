@@ -1,7 +1,7 @@
 +++
 author = "Déambulations Cognitives"
 title = "Le « deep work » selon Cal Newport"
-date = "2022-01-26"
+date = "2022-01-30"
 description = "Comprendre la nécessité de cultiver et de préserver notre capacité de concentration face aux distractions de plus en plus envahissantes."
 tags = [
     "productivité",
