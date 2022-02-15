@@ -1,4 +1,4 @@
-baseURL = "https://deambulations-cognitives.com/"
+baseURL = "https://deambulationscognitives.com/"
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 author = "Déambulations Cognitives"
@@ -25,10 +25,10 @@ googleAnalytics = ""
 	homepage = false
 
 	# Add meta keywords in head part (Site Keywords or Tags of Page)
-	keywords = ["podcast", "livres", "littérature", "sciences sociales", "sociologie", "éducation"]
+	keywords = ["podcast", "livres", "littérature", "sciences sociales", "sociologie", "éducation", "psychologie"]
 
 	# Add meta description in head part
-	description = "Un podcast qui divague au fil de mes lectures."
+	description = "Un podcast qui divague au fil de mes lectures 📚"
 
 	# Add pagetitle to homepage <title> tag
 	pagetitle = "Un podcast qui divague au fil de mes lectures 📚"
@@ -126,7 +126,7 @@ url = "https://discord.gg/XBraWFkVAW"
 # [[params.social]]
 # name = "Email"
 # icon = "fas fa-envelope"
-# cmd = "mailto:DCPodcast@protonmail.com"
+# cmd = "mailto:deambulations.cognitives@gmail.com"
 
 [[params.social]]
 name = "RSS"
